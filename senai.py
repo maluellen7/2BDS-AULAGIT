@@ -1,2 +1,2 @@
-senai = "SERVIÇO SOCIAL DE APRENDIZAGEM INDUSTRIAL"
+senai = "SERVIÇO SOCIAL DE APRENDIZAGEM industrial"
 print(senai)
