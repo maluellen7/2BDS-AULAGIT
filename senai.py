@@ -1,0 +1,2 @@
+senai = "SERVIÇO SOCIAL DE APRENDIZAGEM INDUSTRIAL"
+print(senai)
